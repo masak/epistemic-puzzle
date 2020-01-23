@@ -4,10 +4,10 @@
 > 
 > The following dialog takes place:
 > 
-> 	Mr.P: I don't know the numbers
-> 	Mr.S: I knew you didn't know. I don't know either.
-> 	Mr.P: Now I know the numbers
-> 	Mr.S: Now I know them too
+>     Mr.P: I don't know the numbers
+>     Mr.S: I knew you didn't know. I don't know either.
+>     Mr.P: Now I know the numbers
+>     Mr.S: Now I know them too
 > 
 > Can we find the numbers a and b?
 
