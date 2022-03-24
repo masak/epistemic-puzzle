@@ -25,4 +25,4 @@ It was!
 In my opinion the Haskell solution still wins slightly in elegance, but not by
 all that much.
 
-Now I want to do one version in Perl, and one in Bel. ☺
+I also wrote a version in Perl. Still want to do one in Bel! ☺
