@@ -36,22 +36,22 @@ I also wrote a version in Perl. Still want to do one in Bel! ☺
 >
 > Then, this dialog occurs between Sandy and Peter:
 >
-> Peter: I don’t know the numbers.
-> Sandy: I don’t know the numbers.
-> Peter: I don’t know the numbers.
-> Sandy: I don’t know the numbers.
-> Peter: I don’t know the numbers.
-> Sandy: I don’t know the numbers.
-> Peter: I don’t know the numbers.
-> Sandy: I don’t know the numbers.
-> Peter: I don’t know the numbers.
-> Sandy: I don’t know the numbers.
-> Peter: I don’t know the numbers.
-> Sandy: I don’t know the numbers.
-> Peter: I don’t know the numbers.
-> Sandy: I don’t know the numbers.
+>     Peter: I don’t know the numbers.
+>     Sandy: I don’t know the numbers.
+>     Peter: I don’t know the numbers.
+>     Sandy: I don’t know the numbers.
+>     Peter: I don’t know the numbers.
+>     Sandy: I don’t know the numbers.
+>     Peter: I don’t know the numbers.
+>     Sandy: I don’t know the numbers.
+>     Peter: I don’t know the numbers.
+>     Sandy: I don’t know the numbers.
+>     Peter: I don’t know the numbers.
+>     Sandy: I don’t know the numbers.
+>     Peter: I don’t know the numbers.
+>     Sandy: I don’t know the numbers.
 >
-> Peter: I do know the numbers.
+>     Peter: I do know the numbers.
 >
 > What are the numbers?
 
